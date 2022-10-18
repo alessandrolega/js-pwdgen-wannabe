@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.Title-cont {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,9,1) 100%, rgba(0,212,255,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.h2-cont{
+    border-radius: 15px;
+    padding: 10px;
+    background-color: darkgray;
+}
+
+.h2-cont > h2{
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}

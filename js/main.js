@@ -19,4 +19,4 @@ console.log(FavColour)
 let Sentence = `Your Super Unsafe Password is ${Name}${Surname}${FavColour} 21`
 
 document.getElementById('sentence').innerHTML =
-`Your Super Unsafe Password is ${Name}${Surname}${FavColour} 21`
+`Your Super Unsafe Password is ${Name}${Surname}${FavColour}21`
